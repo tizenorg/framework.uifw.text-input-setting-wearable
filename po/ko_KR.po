@@ -1,0 +1,12 @@
+msgid "IDS_SR_HEADER_NOT_AVAILABLE_ABB"
+msgstr "사용할 수 없음"
+
+msgid "IDS_ST_MBODY_TEXT_INPUT_ABB"
+msgstr "텍스트 입력"
+
+msgid "IDS_KPD_HEADER_KEYBOARD_SETTINGS_ABB"
+msgstr "키보드 설정"
+
+msgid "IDS_IME_BODY_SELECT_KEYBOARD"
+msgstr "키보드 선택"
+

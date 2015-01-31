@@ -1,0 +1,12 @@
+msgid "IDS_SR_HEADER_NOT_AVAILABLE_ABB"
+msgstr "ലഭ്യമല്ല"
+
+msgid "IDS_ST_MBODY_TEXT_INPUT_ABB"
+msgstr "ടെക്സ്റ്റ്‌ ഇന്‍പുട്ട്"
+
+msgid "IDS_KPD_HEADER_KEYBOARD_SETTINGS_ABB"
+msgstr "കീബോർഡ് ക്രമീകരണങ്ങൾ"
+
+msgid "IDS_IME_BODY_SELECT_KEYBOARD"
+msgstr "കീബോര്‍ഡ് തിരഞ്ഞെടുക്കുക"
+

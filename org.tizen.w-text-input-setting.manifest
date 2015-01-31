@@ -1,0 +1,25 @@
+<manifest>
+	<define>
+		<domain name="org.tizen.w-text-input-setting" />
+	</define>
+	<request>
+		<domain name="org.tizen.w-text-input-setting" />
+	</request>
+	<assign>
+		<!-- Package manifest file -->
+		<filesystem path="/usr/share/packages/org.tizen.w-text-input-setting.xml" label="_" />
+
+		<!-- Package folder -->
+		<filesystem path="/usr/apps/org.tizen.w-text-input-setting" label="org.tizen.w-text-input-setting" />
+		<filesystem path="/usr/apps/org.tizen.w-text-input-setting/res" label="org.tizen.w-text-input-setting" />
+		<filesystem path="/usr/apps/org.tizen.w-text-input-setting/res/image" label="org.tizen.w-text-input-setting" />
+		<filesystem path="/usr/apps/org.tizen.w-text-input-setting/res/edje" label="org.tizen.w-text-input-setting" />
+
+		<!-- Executable file -->
+		<filesystem path="/usr/apps/org.tizen.w-text-input-setting/bin/w-text-input-setting" label="org.tizen.w-text-input-setting" exec_label="org.tizen.w-text-input-setting" />
+
+		<!-- Data folder -->
+		<filesystem path="/opt/usr/apps/org.tizen.w-text-input-setting" label="org.tizen.w-text-input-setting" />
+		<filesystem path="/opt/usr/apps/org.tizen.w-text-input-setting/data" label="org.tizen.w-text-input-setting" />
+	</assign>
+</manifest>

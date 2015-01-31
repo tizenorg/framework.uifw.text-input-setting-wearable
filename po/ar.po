@@ -1,0 +1,12 @@
+msgid "IDS_SR_HEADER_NOT_AVAILABLE_ABB"
+msgstr "غير متوفر"
+
+msgid "IDS_ST_MBODY_TEXT_INPUT_ABB"
+msgstr "إدخال النص"
+
+msgid "IDS_KPD_HEADER_KEYBOARD_SETTINGS_ABB"
+msgstr "ضبط لوحة المفاتيح"
+
+msgid "IDS_IME_BODY_SELECT_KEYBOARD"
+msgstr "تحديد لوحة المفاتيح"
+

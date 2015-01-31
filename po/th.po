@@ -1,0 +1,12 @@
+msgid "IDS_SR_HEADER_NOT_AVAILABLE_ABB"
+msgstr "ไม่พร้อมใช้งาน"
+
+msgid "IDS_ST_MBODY_TEXT_INPUT_ABB"
+msgstr "การใส่ตัวอักษร"
+
+msgid "IDS_KPD_HEADER_KEYBOARD_SETTINGS_ABB"
+msgstr "การตั้งค่าแป้นพิมพ์"
+
+msgid "IDS_IME_BODY_SELECT_KEYBOARD"
+msgstr "เลือกแป้นพิมพ์"
+

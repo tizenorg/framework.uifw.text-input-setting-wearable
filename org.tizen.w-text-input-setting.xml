@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns="http://tizen.org/ns/packages" package="org.tizen.w-text-input-setting" version="0.0.1" install-location="internal-only" support-mode="screen-reader">
+	<label>w-text-input-setting</label>
+	<author email="jihoon48.kim@samsung.com" href="www.samsung.com">Jihoon Kim</author>
+	<description>w-text-input-setting</description>
+	<ui-application appid="org.tizen.w-text-input-setting" exec="/usr/apps/org.tizen.w-text-input-setting/bin/w-text-input-setting" nodisplay="true" multiple="false" type="capp" taskmanage="false">
+		<label>w-text-input-setting</label>
+	</ui-application>
+</manifest>

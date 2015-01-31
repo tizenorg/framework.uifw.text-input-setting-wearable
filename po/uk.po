@@ -1,0 +1,12 @@
+msgid "IDS_SR_HEADER_NOT_AVAILABLE_ABB"
+msgstr "Недоступно"
+
+msgid "IDS_ST_MBODY_TEXT_INPUT_ABB"
+msgstr "Введ. тексту"
+
+msgid "IDS_KPD_HEADER_KEYBOARD_SETTINGS_ABB"
+msgstr "Установки клавіатури"
+
+msgid "IDS_IME_BODY_SELECT_KEYBOARD"
+msgstr "Вибрати клавіатуру"
+

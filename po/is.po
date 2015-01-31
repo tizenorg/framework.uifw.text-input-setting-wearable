@@ -1,0 +1,12 @@
+msgid "IDS_SR_HEADER_NOT_AVAILABLE_ABB"
+msgstr "Ekki í boði"
+
+msgid "IDS_ST_MBODY_TEXT_INPUT_ABB"
+msgstr "Innsl. texta"
+
+msgid "IDS_KPD_HEADER_KEYBOARD_SETTINGS_ABB"
+msgstr "Stillingar lyklaborðs"
+
+msgid "IDS_IME_BODY_SELECT_KEYBOARD"
+msgstr "Velja lyklaborð"
+

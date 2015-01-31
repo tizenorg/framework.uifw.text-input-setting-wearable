@@ -1,0 +1,12 @@
+msgid "IDS_SR_HEADER_NOT_AVAILABLE_ABB"
+msgstr "Elýeterli däl"
+
+msgid "IDS_ST_MBODY_TEXT_INPUT_ABB"
+msgstr "Metin girizme"
+
+msgid "IDS_KPD_HEADER_KEYBOARD_SETTINGS_ABB"
+msgstr "Klawiatura sazlamalary"
+
+msgid "IDS_IME_BODY_SELECT_KEYBOARD"
+msgstr "Klawiatura saýla"
+

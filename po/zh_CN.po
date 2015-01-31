@@ -1,0 +1,12 @@
+msgid "IDS_SR_HEADER_NOT_AVAILABLE_ABB"
+msgstr "不可用"
+
+msgid "IDS_ST_MBODY_TEXT_INPUT_ABB"
+msgstr "文本输入"
+
+msgid "IDS_KPD_HEADER_KEYBOARD_SETTINGS_ABB"
+msgstr "键盘设置"
+
+msgid "IDS_IME_BODY_SELECT_KEYBOARD"
+msgstr "选择键盘"
+
