@@ -1,0 +1,12 @@
+msgid "IDS_SR_HEADER_NOT_AVAILABLE_ABB"
+msgstr "Боломжгүй"
+
+msgid "IDS_ST_MBODY_TEXT_INPUT_ABB"
+msgstr "Бичвэр оруул"
+
+msgid "IDS_KPD_HEADER_KEYBOARD_SETTINGS_ABB"
+msgstr "Гар товчлуурын тохиргоо"
+
+msgid "IDS_IME_BODY_SELECT_KEYBOARD"
+msgstr "Товчлуурт гар сонго"
+

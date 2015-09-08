@@ -1,0 +1,12 @@
+msgid "IDS_SR_HEADER_NOT_AVAILABLE_ABB"
+msgstr "មិន​អាច​ប្រើ​បាន"
+
+msgid "IDS_ST_MBODY_TEXT_INPUT_ABB"
+msgstr "ការបញ្ចូល​អត្ថបទ"
+
+msgid "IDS_KPD_HEADER_KEYBOARD_SETTINGS_ABB"
+msgstr "ការកំណត់​ក្ដារចុច"
+
+msgid "IDS_IME_BODY_SELECT_KEYBOARD"
+msgstr "ជ្រើស​ក្ដារចុច"
+

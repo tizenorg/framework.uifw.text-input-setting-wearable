@@ -1,0 +1,12 @@
+msgid "IDS_SR_HEADER_NOT_AVAILABLE_ABB"
+msgstr "دستیاب نہیں ہے"
+
+msgid "IDS_ST_MBODY_TEXT_INPUT_ABB"
+msgstr "ٹیکسٹ ان پٹ"
+
+msgid "IDS_KPD_HEADER_KEYBOARD_SETTINGS_ABB"
+msgstr "کی بورڈ کی ترتیبات"
+
+msgid "IDS_IME_BODY_SELECT_KEYBOARD"
+msgstr "کی بورڈ منتخب کریں"
+

@@ -1,0 +1,12 @@
+msgid "IDS_SR_HEADER_NOT_AVAILABLE_ABB"
+msgstr "Ni na voljo"
+
+msgid "IDS_ST_MBODY_TEXT_INPUT_ABB"
+msgstr "Vn. besedila"
+
+msgid "IDS_KPD_HEADER_KEYBOARD_SETTINGS_ABB"
+msgstr "Nastavitve tipkovnice"
+
+msgid "IDS_IME_BODY_SELECT_KEYBOARD"
+msgstr "Izberite tipkovnico"
+

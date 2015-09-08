@@ -1,0 +1,12 @@
+msgid "IDS_SR_HEADER_NOT_AVAILABLE_ABB"
+msgstr "ಲಭ್ಯವಿಲ್ಲ"
+
+msgid "IDS_ST_MBODY_TEXT_INPUT_ABB"
+msgstr "ಪಠ್ಯ ಇನ್‌ಪುಟ್‌"
+
+msgid "IDS_KPD_HEADER_KEYBOARD_SETTINGS_ABB"
+msgstr "ಕೀಬೋರ್ಡ್ ಸಂಯೋಜನೆಗಳು"
+
+msgid "IDS_IME_BODY_SELECT_KEYBOARD"
+msgstr "ಕೀಬೋರ್ಡ್ ಆಯ್ಕೆಮಾಡಿ"
+

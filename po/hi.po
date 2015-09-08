@@ -1,0 +1,12 @@
+msgid "IDS_SR_HEADER_NOT_AVAILABLE_ABB"
+msgstr "उपलब्ध नहीं"
+
+msgid "IDS_ST_MBODY_TEXT_INPUT_ABB"
+msgstr "टेक्स्ट इनपुट"
+
+msgid "IDS_KPD_HEADER_KEYBOARD_SETTINGS_ABB"
+msgstr "कीबोर्ड सेटिंग्स"
+
+msgid "IDS_IME_BODY_SELECT_KEYBOARD"
+msgstr "कीबोर्ड चुनें"
+

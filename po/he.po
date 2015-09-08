@@ -1,0 +1,12 @@
+msgid "IDS_SR_HEADER_NOT_AVAILABLE_ABB"
+msgstr "לא זמין"
+
+msgid "IDS_ST_MBODY_TEXT_INPUT_ABB"
+msgstr "קלט טקסט"
+
+msgid "IDS_KPD_HEADER_KEYBOARD_SETTINGS_ABB"
+msgstr "הגדרות מקלדת"
+
+msgid "IDS_IME_BODY_SELECT_KEYBOARD"
+msgstr "בחר מקלדת"
+

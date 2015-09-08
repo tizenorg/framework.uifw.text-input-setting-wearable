@@ -1,0 +1,12 @@
+msgid "IDS_SR_HEADER_NOT_AVAILABLE_ABB"
+msgstr "అందుబాటులో లేదు"
+
+msgid "IDS_ST_MBODY_TEXT_INPUT_ABB"
+msgstr "టెక్స్ట్ ఇన్‌పుట్"
+
+msgid "IDS_KPD_HEADER_KEYBOARD_SETTINGS_ABB"
+msgstr "కీబోర్డ్ సెట్టింగ్‌లు"
+
+msgid "IDS_IME_BODY_SELECT_KEYBOARD"
+msgstr "కీబోర్డ్ ని ఎంచుకోండి"
+

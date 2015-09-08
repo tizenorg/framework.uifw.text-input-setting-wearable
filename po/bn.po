@@ -1,0 +1,12 @@
+msgid "IDS_SR_HEADER_NOT_AVAILABLE_ABB"
+msgstr "অসুলভ"
+
+msgid "IDS_ST_MBODY_TEXT_INPUT_ABB"
+msgstr "পাঠ্য ইনপুট"
+
+msgid "IDS_KPD_HEADER_KEYBOARD_SETTINGS_ABB"
+msgstr "কীবোর্ড সেটিংস"
+
+msgid "IDS_IME_BODY_SELECT_KEYBOARD"
+msgstr "কীবোর্ড নির্বাচন করুন"
+

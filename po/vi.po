@@ -1,0 +1,12 @@
+msgid "IDS_SR_HEADER_NOT_AVAILABLE_ABB"
+msgstr "Không có"
+
+msgid "IDS_ST_MBODY_TEXT_INPUT_ABB"
+msgstr "Nhập văn bản"
+
+msgid "IDS_KPD_HEADER_KEYBOARD_SETTINGS_ABB"
+msgstr "Cài đặt bàn phím"
+
+msgid "IDS_IME_BODY_SELECT_KEYBOARD"
+msgstr "Chọn bàn phím"
+
